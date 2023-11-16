@@ -1,9 +1,9 @@
 #include "shell.h"
 
 /**
- * join - join two string
- * @s1: string one
- * @s2: string two
+ * join - join two string together
+ * @s1: string one to be joined
+ * @s2: string two to be joined
  * Return: the joined string
  */
 

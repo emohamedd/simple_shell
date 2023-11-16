@@ -14,10 +14,10 @@
 
 /**
  * struct s_shell - shell struct
- * @argv: arguments
- * @env: environement
- * @line: the command line
- * @tokens: command tokens
+ * @argv: arguments vector
+ * @env: environement variables
+ * @line: the command line input
+ * @tokens: command tokens after splitting
  * @error_counter: number of the error
  * @status: the status code
  * Description: shell struct

@@ -2,8 +2,8 @@
 
 /**
 * _strchr - searches for a character
-* @s: the string
-* @c: the character
+* @s: the string to be searched
+* @c: the character to be searched for
 * Return: returns a pointer to the character
 */
 char *_strchr(const char *s, int c)

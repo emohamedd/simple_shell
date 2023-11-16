@@ -1,10 +1,10 @@
 #include "shell.h"
 
 /**
- * _strcat - concatenates two strings
- * @dest: destination string
- * @src: source string
- * Return: pointer to the concatenated string
+ * _strcat - concatenates two strings together
+ * @dest: destination string to be concatenated
+ * @src: source string to be concatenated
+ * Return: pointer to the concatenated string dest
  */
 
 char *_strcat(char *dest, char *src)
