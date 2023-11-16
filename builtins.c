@@ -13,8 +13,8 @@ void _putchar(int c)
 
 /**
  * _putstr - prints a string
- * @str: the string to print
- * Return: void
+ * @str: the string to print 
+ * Return: void value
  */
 
 void _putstr(char *str)
@@ -29,8 +29,8 @@ void _putstr(char *str)
 }
 
 /**
- * print_env - prints the environment variables
- * void
+ * print_env - prints the environment variables to stdout
+ * void value
  */
 
 void print_env(void)
@@ -47,9 +47,9 @@ void print_env(void)
 }
 
 /**
- * handle_exit - handles the exit builtin
- * @shell: the shell variable
- * Return: 0 on success, 1 on failure
+ * handle_exit - handles the exit builtin command
+ * @shell: the shell variable struct
+ * Return: 0 on success, 1 on failure 
  */
 
 int handle_exit(t_shell *shell)

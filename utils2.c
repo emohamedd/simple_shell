@@ -2,9 +2,9 @@
 
 /**
  * _strcat - concatenates two strings together
- * @dest: destination string to be concatenated
- * @src: source string to be concatenated
- * Return: pointer to the concatenated string dest
+ * @dest: destination string to be concatenated to
+ * @src: source string to be concatenated to dest
+ * Return: pointer to the concatenated string dest + src
  */
 
 char *_strcat(char *dest, char *src)

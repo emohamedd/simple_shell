@@ -21,9 +21,9 @@ char *make_path(char *path, char *cmd)
 }
 
 /**
- * get_path - gets the path of a command
- * @cmd: command to get the path of
- * Return: path of the command
+ * get_path - gets the path of a command from the PATH variable
+ * @cmd: command to get the path of it
+ * Return: path of the command else NULL
  */
 
 char *get_path(char *cmd)
