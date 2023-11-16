@@ -23,7 +23,6 @@
  * Description: shell struct
 */
 
-
 typedef struct s_shell
 {
 char **argv;
@@ -42,8 +41,8 @@ void	*_memcpy(void *dst, const void *src, size_t n);
 char	*get_next_line(int fd);
 char **ft_split(char *s, char *delimiters);
 char	*ft_substr(char *s, int start, int len);
-int get_last_exit(int action, int status);
 char *_strchr(const char *s, int c);
+int get_last_exit(int action, int status);
 int _strlen(char *str);
 int _strncmp(char *str1, char *str2, int n);
 char *_strdup(char *str);
