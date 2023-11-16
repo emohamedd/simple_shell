@@ -6,5 +6,5 @@ SIMPLE SHELL PROJECT
 - [Contributing](#contributing)
 
 -[contributors](#contributors)
-Mohamed Amine El gaouej github: emohamedd
-Reda Arraji : Rarraji
+Mohamed Amine El gaouej  // github: emohamedd
+Reda Arraji :  // github:Redavio9
