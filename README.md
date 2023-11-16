@@ -5,6 +5,8 @@ SIMPLE SHELL PROJECT
 ## Table of Contents
 - [Contributing](#contributing)
 
--[contributors](#contributors)
-Mohamed Amine El gaouej  // github: emohamedd
-Reda Arraji :  // github:Redavio9
+## Contributing
+## Mohamed Amine El gaouej
+- Github: emohamedd
+## Reda Arraji : 
+- Github:Redavio9
