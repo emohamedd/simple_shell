@@ -13,7 +13,7 @@ void _putchar(int c)
 
 /**
  * _putstr - prints a string
- * @str: the string to print 
+ * @str: the string to print
  * Return: void value
  */
 
@@ -49,7 +49,7 @@ void print_env(void)
 /**
  * handle_exit - handles the exit builtin command
  * @shell: the shell variable struct
- * Return: 0 on success, 1 on failure 
+ * Return: 0 on success, 1 on failure
  */
 
 int handle_exit(t_shell *shell)
